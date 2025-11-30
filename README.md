@@ -3,4 +3,6 @@ A Website - Final Project
 
 GROUP # 10
 
-Service Page done by: Asad Ali (F25-0698)
+Members: Asad Ali (F25-0698)
+Muhammad Subhan Shahid (F25-0734)
+Rayan Khalid (F25-0636)
